@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.user.testingdb">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/journal_png"
+        android:label="@string/journal"
+        android:roundIcon="@drawable/journal"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".activity.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activity.LoginActivity" />
+        <activity android:name=".activity.RegistrationActivity" />
+        <activity android:name=".activity.DashboardActivity" />
+        <activity android:name=".activity.EntryActivity" />
+        <activity android:name=".activity.Details"></activity>
+    </application>
+
+</manifest>

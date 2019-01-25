@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">TestingDb</string>
+
+    <string name="signin">SIGN IN</string>
+
+    <string name="register">Register</string>
+
+    <string name="Authenticate">Authenticate</string>
+
+    <string name="email">E-mail</string>
+
+    <string name="password">Password</string>
+
+    <string name="journal">Journal</string>
+
+    <string name="login">Login</string>
+
+    <string name="firstname">First Name</string>
+
+    <string name="lastname">Last Name</string>
+
+    <string name="confirm">Confirm Password</string>
+
+    <string name="title">Title</string>
+
+    <string name="content">Content</string>
+
+    <string name="submit">Submit</string>
+
+    <string name="data">data</string>
+
+    <string name="no">No</string>
+
+    <string name="yes">Yes</string>
+
+    <string name="sure">Are You Sure?</string>
+
+    <string name="newUser">New User? Click Here</string>
+
+    <string name="about">JournalX App</string>
+
+    <string name="version">Version</string>
+
+    <string name="version_number">1.01.0</string>
+
+    <string name="lastUpdate">Last Update</string>
+
+    <string name="lastUpdateDate">January 2019</string>
+
+    <string name="termsOfUse">Term of Use</string>
+
+    <string name="created_by">Created By</string>
+
+    <string name="alao">"@omogidigangan"</string>
+
+    <string name="appreciations">Appreciation</string>
+
+    <string name="uthu">Ayinde Uthman</string>
+
+    <string name="adeolu">Adeoluwa</string>
+
+    <string name="skySpace">Skyspace INC.</string>
+    <string name="description">Enter your description here</string>
+
+</resources>
